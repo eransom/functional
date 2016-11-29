@@ -1,0 +1,37 @@
+.banner {
+  background-image: url("https://tiy-learn-content.s3.amazonaws.com/3a83cd51-banner.jpg");
+  background-size: contain;
+  height: 148px;
+  margin-top: 20px;
+}
+
+nav {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  opacity: .8;
+  margin-left: 60px;
+  margin-top: 15px;
+}
+
+.answers {
+  background-color: lightgray;
+  padding: 1em;
+}
+
+h1 {
+  font-family: 'Yrsa', serif;
+  font-size: 35px;
+  opacity: .8;
+  margin-top: 100px;
+  text-align: center;
+}
+
+hr {
+  margin-top: -50px;
+  opacity: .3;
+}
+
+p {
+  margin-top: 50px;
+  text-align: center;
+}
